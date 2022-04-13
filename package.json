@@ -33,5 +33,11 @@
       "category": "public.app-category.Reference"
     },
     "win": {}
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "tcp-port-used": "^1.0.2"
   }
 }
